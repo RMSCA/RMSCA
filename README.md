@@ -1,4 +1,4 @@
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RMSCA&repo=Custom-Hunger&theme=dracula&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RMSCA&repo=Custom-Hunger&theme=dracula&show_owner=true)](https://github.com/RMSCA/Custom-Hunger)
 
 ### Hi there 👋
 
