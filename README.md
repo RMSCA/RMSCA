@@ -1,3 +1,5 @@
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RMSCA&repo=Custom-Hunger&theme=dracula&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Hi there 👋
 
 #### About me:
@@ -9,7 +11,8 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RMSCA&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RMSCA&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RMSCA&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **RMSCA/RMSCA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
