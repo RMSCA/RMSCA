@@ -1,5 +1,8 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RMSCA&repo=Custom-Hunger&theme=dracula&show_owner=true)](https://github.com/RMSCA/Custom-Hunger)
 
+#### Visitor count
+![:name](https://count.getloli.com/get/@RMSCA?theme=rule34)
+
 ### Hi there 👋
 
 #### About me:
