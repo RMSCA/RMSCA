@@ -1,20 +1,19 @@
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RMSCA&repo=Custom-Hunger&theme=dracula&show_owner=true)](https://github.com/RMSCA/Custom-Hunger)
+![:RMSCA](https://count.getloli.com/get/@:RMSCA?theme=rule34)
 
-#### Visitor count
-![:name](https://count.getloli.com/get/@RMSCA?theme=rule34)
-
-### Hi there 👋
+#### Platforms & Tools:
+![](https://img.shields.io/badge/Apple-mac_mini_(M1,_2020)-999999?style=for-the-badge&logo=apple&logoColor=white)
+![](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 #### About me:
-- 🔭 I’m currently a high school student
-- 🌱 I’m still a beginner of coding
-- ⚡ I'm interested in cloud computing
-- 🤔 I like Minecraft, but I don't play it that much
-- 👯 My preferred language: English, Chinese
+- High school student
+- Beginner of coding
+- Interested in cloud computing
+- Preferred languages: English, Chinese  
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RMSCA&show_icons=true&theme=dracula)](https://github.com/RMSCA)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RMSCA&layout=compact&theme=dracula)](https://github.com/RMSCA)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RMSCA&repo=Custom-Hunger&theme=dracula&show_owner=true)](https://github.com/RMSCA/Custom-Hunger)
 
 <!--
 **RMSCA/RMSCA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
