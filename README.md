@@ -11,9 +11,11 @@
 - Interested in cloud computing
 - Preferred languages: English, Chinese  
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RMSCA&show_icons=true&theme=dracula)](https://github.com/RMSCA)
+![](https://github-readme-stats.vercel.app/api?username=RMSCA&show_icons=true&theme=dracula)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RMSCA&repo=Custom-Hunger&theme=dracula&show_owner=true)](https://github.com/RMSCA/Custom-Hunger)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RMSCA&layout=compact&theme=dracula)
 
 <!--
 **RMSCA/RMSCA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
