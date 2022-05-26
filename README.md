@@ -1,15 +1,15 @@
 <img align="right" src="https://count.getloli.com/get/@:RMSCA?theme=rule34" />
 
-#### Platforms & Tools:
-![](https://img.shields.io/badge/Apple-mac_mini_(M1,_2020)-999999?style=for-the-badge&logo=apple&logoColor=white)
-![](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-
 #### About me:
 - High school student
 - Beginner of coding
 - Interested in cloud computing
 - Preferred languages: English, Chinese  
+
+#### Platforms & Tools:
+![](https://img.shields.io/badge/Apple-mac_mini_(M1,_2020)-999999?style=for-the-badge&logo=apple&logoColor=white)
+![](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 ![](https://github-readme-stats.vercel.app/api?username=RMSCA&show_icons=true&theme=dracula)
 
