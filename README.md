@@ -1,4 +1,4 @@
-![:RMSCA](https://count.getloli.com/get/@:RMSCA?theme=rule34)
+<img align="right" src="https://count.getloli.com/get/@:RMSCA?theme=rule34" />
 
 #### Platforms & Tools:
 ![](https://img.shields.io/badge/Apple-mac_mini_(M1,_2020)-999999?style=for-the-badge&logo=apple&logoColor=white)
