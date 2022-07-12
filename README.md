@@ -15,7 +15,8 @@
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 ![](https://github-readme-stats.vercel.app/api?username=RMSCA&show_icons=true&theme=dracula)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=RMSCA&repo=CustomHunger&theme=dracula&show_owner=true)](https://github.com/RMSCA/CustomHunger)
+
+[//]: [![](https://github-readme-stats.vercel.app/api/pin/?username=RMSCA&repo=CustomHunger&theme=dracula&show_owner=true)](https://github.com/RMSCA/CustomHunger)
 
 [//]: [![](https://github-readme-stats.vercel.app/api/pin/?username=LAELIOA&repo=laelioa.github.io&theme=dracula&show_owner=true)](https://github.com/LAELIOA/laelioa.github.io)
 
