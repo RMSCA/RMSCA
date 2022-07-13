@@ -9,9 +9,10 @@
 - Preferred languages: English, Chinese  
 
 #### Platforms & Tools:
-![](https://img.shields.io/badge/Apple-mac_mini_(M1,_2020)-999999?style=for-the-badge&logo=apple&logoColor=white)
-![](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=RMSCA&show_icons=true&theme=dracula" />  
+
+![](https://img.shields.io/badge/Apple-mac_mini_(M1,_2020)-999999?style=for-the-badge&logo=apple&logoColor=white)
+![](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)  
 ![](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)  
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
