@@ -4,7 +4,6 @@
 
 #### About me:
 - High school student
-- Beginner of coding
 - Favorite games: Phigros, CSGO, Minecraft
 - Preferred languages: English, Chinese  
 
