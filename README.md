@@ -1,4 +1,14 @@
-![](https://socialify.git.ci/RMSCA/RMSCA/image?description=1&descriptionEditable=Hello!&font=Raleway&logo=https%3A%2F%2Fgithub.com%2FRMSCA%2FRMSCA%2Fblob%2Fmaster%2Favatar.jpg%3Fraw%3Dtrue&pattern=Plus&theme=Light)
+<p float="left">
+  <img src="image.jpg" width="250" align="left">
+  <p float="left">
+    <samp>
+      High school student
+      <br>
+      Java
+    </samp>
+  </p>
+</p>
+<!--- ![](https://socialify.git.ci/RMSCA/RMSCA/image?description=1&descriptionEditable=Hello!&font=Raleway&logo=https%3A%2F%2Fgithub.com%2FRMSCA%2FRMSCA%2Fblob%2Fmaster%2Favatar.jpg%3Fraw%3Dtrue&pattern=Plus&theme=Light)
 
 <img align="right" src="https://count.getloli.com/get/@:RMSCA?theme=rule34" />
 
@@ -21,4 +31,4 @@
 
 [//]: ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RMSCA&layout=compact&theme=dracula)
 
-<!--- ![](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white) -->
+![](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white) -->
