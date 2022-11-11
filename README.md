@@ -1,5 +1,5 @@
 <p float="left">
-  <img src="image.jpg" width="250" align="left">
+  <!--- <img src="image.JPG" width="250" align="left"> -->
   <p float="left">
     <samp>
       High school student
