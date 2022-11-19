@@ -1,5 +1,5 @@
-<p float="left">
-  <!--- <img src="image.JPG" width="250" align="left"> -->
+<!---<p float="left">
+  <!--- <img src="image.JPG" width="250" align="left"> 
   <p float="left">
     <samp>
       High school student
@@ -7,7 +7,7 @@
       Java
     </samp>
   </p>
-</p>
+</p>-->
 <!--- ![](https://socialify.git.ci/RMSCA/RMSCA/image?description=1&descriptionEditable=Hello!&font=Raleway&logo=https%3A%2F%2Fgithub.com%2FRMSCA%2FRMSCA%2Fblob%2Fmaster%2Favatar.jpg%3Fraw%3Dtrue&pattern=Plus&theme=Light)
 
 <img align="right" src="https://count.getloli.com/get/@:RMSCA?theme=rule34" />
