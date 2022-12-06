@@ -1,4 +1,4 @@
-变成光守护嘉然小姐
+![](https://count.getloli.com/get/@:RMSCA?theme=rule34)
 <!---<p float="left">
   <!--- <img src="image.JPG" width="250" align="left"> 
   <p float="left">
